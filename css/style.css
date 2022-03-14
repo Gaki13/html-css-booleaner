@@ -49,3 +49,20 @@ p{
 .elenco{
     font-size: 25px;
 }
+
+table, th, td {
+    font-size: 20px;
+    border: 0px;
+}
+
+th{
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+
+
+
+.colonna{
+    background-color: aqua;
+}
