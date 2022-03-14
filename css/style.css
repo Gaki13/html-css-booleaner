@@ -8,6 +8,13 @@ body{
     background-color: blue;
     height: 175px;
     width: 100%;
+
+}
+
+#logo{
+    height: 50px;
+    height: 70px;
+    margin-top: 100px; 
 }
 
 main{
@@ -89,4 +96,3 @@ h3{
     background-image: url("../img/graph.jpg");
     background-repeat: no-repeat;
 } 
-}
