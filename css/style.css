@@ -36,3 +36,12 @@ img{
     width: 45%;
     height: 700px;
 }
+
+p{
+    font-size: 25px;
+}
+
+.sottolineato{
+    background-color: yellow;
+    color: black;
+}
