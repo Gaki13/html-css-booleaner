@@ -52,7 +52,7 @@ p{
 
 table, th, td {
     font-size: 20px;
-    border: 0px;
+    border-style: hidden;
 }
 
 th{
@@ -61,8 +61,32 @@ th{
     text-align: left;
 }
 
-
-
 .colonna{
     background-color: aqua;
+}
+
+footer{
+    margin: 8px;
+}
+
+h3{
+    font-size: 25px;
+    color: grey;
+}
+
+.monitor{
+    font-size: 30px;
+    color: white;
+    height: 210px;
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+
+.graph{
+    font-size: 30px;
+    color: white;
+    height: 210px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+} 
 }
