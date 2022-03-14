@@ -1,7 +1,38 @@
-.Titolo{
+body{
+    margin: 0px;
+}
+
+
+.header{
     background-image: url("../img/pattern.png");
     background-color: blue;
     height: 175px;
     width: 100%;
 }
 
+main{
+    margin: 8px;
+}
+
+h1{
+    font-size: 80px;
+    margin-bottom: 4px;
+}
+
+.autore{
+    font-size: 25px;
+    color: grey;
+}
+
+span{
+    color: aqua;
+}
+
+#data{
+    font-size: 20px;
+}
+
+img{
+    width: 45%;
+    height: 700px;
+}
